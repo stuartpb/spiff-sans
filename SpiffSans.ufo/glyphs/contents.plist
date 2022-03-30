@@ -108,5 +108,7 @@
     <string>grave.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
+    <key>notdef</key>
+    <string>notdef.glif</string>
   </dict>
 </plist>

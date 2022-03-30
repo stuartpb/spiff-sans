@@ -25,7 +25,7 @@
     <key>note</key>
     <string>2022-03-29: Created with FontForge (http://fontforge.org)</string>
     <key>openTypeHeadCreated</key>
-    <string>2022/03/30 03:03:57</string>
+    <string>2022/03/30 06:22:30</string>
     <key>openTypeHheaAscender</key>
     <integer>1000</integer>
     <key>openTypeHheaDescender</key>
@@ -39,7 +39,7 @@
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2VendorID</key>
-    <string></string>
+    <string>    </string>
     <key>openTypeOS2FamilyClass</key>
     <array>
       <integer>0</integer>

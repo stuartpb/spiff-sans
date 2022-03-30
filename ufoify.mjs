@@ -10,7 +10,7 @@ function parseSequence(seq){
   }
   return sequence;
 }
-  
+
 function parsePaths(paths) {
   if(Array.isArray(paths)) {
     if(typeof paths[0] == "string"){

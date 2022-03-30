@@ -3,7 +3,7 @@
 @GDEF_Simple = [\space \exclam \quotedbl \quotesingle \plus \comma \hyphen \period 
 	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
 	\equal \question \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
-	\backslash \underscore \grave \bar ];
+	\backslash \underscore \grave \bar \notdef ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
