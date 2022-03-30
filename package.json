@@ -1,0 +1,23 @@
+{
+  "name": "spiffsans",
+  "version": "3.0.0",
+  "description": "A variable-width font for OpenSCAD.",
+  "main": "spiffscad.js",
+  "dependencies": {
+    "yaml": "^1.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/spiffsans.git"
+  },
+  "keywords": [
+    "scad",
+    "openscad",
+    "font"
+  ],
+  "author": "Stuart P. Bentley <stuart@testtrack4.com>",
+  "license": "MIT"
+}
