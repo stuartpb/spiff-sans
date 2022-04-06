@@ -1,12 +1,6 @@
 # Spiff Sans
 
-The default font for [Spiff.scad](https://github.com/stuartpb/Spiff.scad).
-
-## Building
-
-Using yaml2scad.js from [spaggers](https://github.com/stuartpb/spaggers):
-
-    node yaml2scad.js spiffsans.yaml spiffsans.scad
+A font originally designed [to fill in for OpenSCAD's lack of proper text facilities](https://www.thingiverse.com/thing:13347), this low-poly geometric font has been revived as a proper TrueType /  OpenType font, for use with any modeling program that can handle outline fonts (like modern versions of OpenSCAD, via `text()`).
 
 ## License
 
